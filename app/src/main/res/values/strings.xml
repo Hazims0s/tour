@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">London Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Hotels">Hotels</string>
+    <string name="SHOPS">SHOPS</string>
+    <string name="restaurants">restaurants</string>
+    <string name="bestactivites">Best Activities</string>
+
+    <string name="london_bridge">Throughout history, a number of bridges named London Bridge have spanned
+        the River Thames between the City of London and Southwark, in central London</string>
+    <string name="london_eye">The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London. The structure is 443 feet tall and the wheel has 
+        a diameter of 394 feet. When it opened to the public in 2000 it was the worlds tallest Ferris wheel</string>
+    <string name="madame_tussauds">Museum chain for life-size wax replicas of famous celebrities and historic icons in themed galleries</string>
+    <string name="madame_tussaudsName">madame tussauds</string>
+    <string name="london_eyeName">London eye</string>
+    <string name="london_bridgeName">London bridge</string>
+
+    <string name="TheLanesborough">Situated alongside Hyde Park Corner near Buckingham Palace and Hyde Park, The Lanesborough exudes classic British charm.</string>
+    <string name="TheBeaumont">Timeless elegance can be found at The Beaumount hotel, located on a peaceful Mayfair square in London.</string>
+    <string name="CorinthiaHotelLondon">Guests are consistently impressed by the accommodations, wealth of amenities and level of service offered at the Corinthia Hotel London.</string>
+    <string name="TheLanesboroughName">The Lanesborough</string>
+    <string name="TheBeaumontName">The Beaumont</string>
+    <string name="CorinthiaHotelLondonName">Corinthia Hote lLondon</string>
+
+    <string name="XianImpression">ucked on a little side street facing Arsenal’s Emirates Stadium, Xi’an Impression might look innocuous.</string>
+    <string name="PFranco">he carousel of rotating chefs at this Hackney wine bar and shop are currently responsible for some of the capital’s most arresting gourmet artistry. </string>
+    <string name="mangal">Mangal 2 is famous for three reasons: one, it prepares excellent, no-nonsense Turkish food from an historic ocakbaşı — grilled chicken, lamb, and quail kebabs, pickled chillies and a classic grilled onion, sumac and pomegranate molasses salad. </string>
+    <string name="XianImpressionName">Xian Impression</string>
+    <string name="PFrancoName">P Franco</string>
+    <string name="mangalName">Mangal</string>
+
+    <string name="westfield">Westfield London is a shopping centre in White City, London, United Kingdom, in the London Borough of Hammersmith and Fulham.</string>
+    <string name="Selfridges">Selfridges is a Grade II listed retail premises on Oxford Street in London. It was designed by Daniel Burnham for Harry Gordon Selfridge, and opened in 1909. </string>
+    <string name="Harrods">Harrods is a luxury department store located on Brompton Road in Knightsbridge, London.</string>
+    <string name="westfieldName">westfield</string>
+    <string name="SelfridgesName">Selfridges</string>
+    <string name="HarrodsName">Harrods</string>
+</resources>
